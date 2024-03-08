@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/noCuJPmDfeG7o+QJufLMMaoy8vh1Fjov8DYl4etK6C9lDdVbOde5HnWX6NwXAWnoqmvNRHKL0z808vzLFmo4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tarde.cetafaju\\Documents\\Visual Studio 2022\\robo\\robo\\robo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tarde.cetafaju\\.nuget\\packages\\htmlagilitypack\\1.11.59\\htmlagilitypack.1.11.59.nupkg.sha512"
+  ],
+  "logs": []
+}

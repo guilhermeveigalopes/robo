@@ -1,0 +1,17 @@
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\robo\robo\bin\Debug\net6.0\robo.exe
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\robo\robo\bin\Debug\net6.0\robo.deps.json
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\robo\robo\bin\Debug\net6.0\robo.runtimeconfig.json
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\robo\robo\bin\Debug\net6.0\robo.dll
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\robo\robo\bin\Debug\net6.0\robo.pdb
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\robo\robo\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\robo\robo\obj\Debug\net6.0\robo.csproj.AssemblyReference.cache
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\robo\robo\obj\Debug\net6.0\robo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\robo\robo\obj\Debug\net6.0\robo.AssemblyInfoInputs.cache
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\robo\robo\obj\Debug\net6.0\robo.AssemblyInfo.cs
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\robo\robo\obj\Debug\net6.0\robo.csproj.CoreCompileInputs.cache
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\robo\robo\obj\Debug\net6.0\robo.csproj.CopyComplete
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\robo\robo\obj\Debug\net6.0\robo.dll
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\robo\robo\obj\Debug\net6.0\refint\robo.dll
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\robo\robo\obj\Debug\net6.0\robo.pdb
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\robo\robo\obj\Debug\net6.0\robo.genruntimeconfig.cache
+C:\Users\tarde.cetafaju\Documents\Visual Studio 2022\robo\robo\obj\Debug\net6.0\ref\robo.dll
